@@ -1,0 +1,29 @@
+#main-navbar {
+    background-color: blue; 
+}
+nav#main-navbar ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow:hidden;
+}
+nav#main-navbar ul li {
+    float:left;
+
+}
+nav#main-navbar ul li a {
+    color: #fff;
+    text-decoration: none;
+    display: block;
+    padding: 10px 20px;
+}
+
+nav#main-navbar ul li:hover {
+    background-color: #000;
+}
+
+#onpage {
+    text-decoration: underline overline;
+
+}
+
